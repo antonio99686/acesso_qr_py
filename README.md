@@ -1,0 +1,1 @@
+# acesso_qr_py
